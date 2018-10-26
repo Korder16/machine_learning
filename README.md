@@ -1,3 +1,3 @@
 # machine_learning
 <h1>Machine_learning course</h1>
-![Image alt](/screen/machine-learning.jpg?raw=True "Title")
+![alt text](https://raw.githubusercontent.com/Korder16/machine_learning/master/path/to/img.png)
