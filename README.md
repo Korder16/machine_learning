@@ -1,3 +1,3 @@
 # machine_learning
 <h1>Machine_learning course</h1>
-![alt text](machine_learning/screen/machine-learning.jpg)
+![alt text](https://github.com/Korder16/machine_learning/blob/master/screen/machine-learning.jpg)
